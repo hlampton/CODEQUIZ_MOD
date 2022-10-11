@@ -12,6 +12,5 @@ WHEN I answer a question
 
 THEN I am presented with another question
 
-WHEN I answer a question incorrectly
-
+WHEN I answer a question incorrectly<br>
 THEN time is subtracted from the clock
